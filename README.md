@@ -24,3 +24,5 @@ I wanna develope some hack tools and be famous join me if u want. thx for coming
 [![Discord Presence](https://lanyard.cnrad.dev/api/983946996354252830?borderRadius=20px&idleMessage=Bomming%20your%20Mom&hideStatus=false&bg=000000&hideDiscrim=true)](https://discord.com/users/983946996354252830)
 <div align="center">
 <h2> my github stats ! <img src="https://cdn.discordapp.com/emojis/873662771730980925.png" width="30px"></h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishrak3232)](https://github.com/anuraghazra/github-readme-stats)
