@@ -6,11 +6,11 @@
 ## <img src="https://cdn.discordapp.com/emojis/866907882393567242.png" width="30px">&nbsp;***About me***
 
 Iam a teen boy who love to code. I wanna do something by coding. I wanna be famous through coding. still learning. love to use
+
+* discord
  
- * discord
- 
-I use 
- * python
+**I use **
+* python
 
 I wanna develope some hack tools and be famous join me if u want. thx for coming here
   
