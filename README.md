@@ -26,3 +26,18 @@ I wanna develope some hack tools and be famous join me if u want. thx for coming
 <h2> my github stats ! <img src="https://cdn.discordapp.com/emojis/873662771730980925.png" width="30px"></h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishrak3232&show_icons=true&theme=dark&ring_color=26bccc)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishrak3232&label=Profile%20views&color=808080&style=flat" alt="ishrak3232" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishrak3232" alt="ishrak3232" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishrak3232&show_icons=true&theme=onedark&title_color=f7f7f7&text_color=00e1ff&locale=en&layout=compact" alt="ishrak3232" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishrak3232&show_icons=true&theme=onedark&title_color=fafafa&text_color=00eeff&locale=en" alt="ishrak3232" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishrak3232&theme=dark" alt="ishrak3232" /></p>
