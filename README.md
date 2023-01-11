@@ -25,4 +25,4 @@ I wanna develope some hack tools and be famous join me if u want. thx for coming
 <div align="center">
 <h2> my github stats ! <img src="https://cdn.discordapp.com/emojis/873662771730980925.png" width="30px"></h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishrak3232&show_icons=true&theme=dark&ring_color=#26bccc)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishrak3232&show_icons=true&theme=dark&ring_color=26bccc)](https://github.com/anuraghazra/github-readme-stats)
