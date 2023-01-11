@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/983946996354252830?borderRadius=20px&idleMessage=Bomming%20your%20Mom&hideStatus=false&bg=000000)](https://discord.com/users/983946996354252830)
+[![Discord Presence](https://lanyard.cnrad.dev/api/983946996354252830?borderRadius=20px&idleMessage=Bomming%20your%20Mom&hideStatus=false&bg=000000&hideDiscrim=true)](https://discord.com/users/983946996354252830)
