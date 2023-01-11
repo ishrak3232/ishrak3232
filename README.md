@@ -1,7 +1,7 @@
 ## **HELLO BXBY
 [![Discord Presence](https://lanyard.cnrad.dev/api/983946996354252830?borderRadius=20px&idleMessage=Bomming%20your%20Mom&hideStatus=false&bg=000000&hideDiscrim=true)](https://discord.com/users/983946996354252830)
 
-<h3 align="right">**I use**:</h3>
+<h3 align="middle">I use:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
