@@ -38,6 +38,6 @@ I wanna develope some hack tools and be famous join me if u want. thx for coming
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishrak3232&show_icons=true&theme=onedark&title_color=f7f7f7&text_color=00e1ff&locale=en&layout=compact" alt="ishrak3232" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishrak3232&show_icons=true&theme=onedark&title_color=fafafa&text_color=00eeff&locale=en" alt="ishrak3232" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishrak3232&theme=dark" alt="ishrak3232" /></p>
+
+
