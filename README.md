@@ -5,17 +5,14 @@
 
 ## <img src="https://cdn.discordapp.com/emojis/866907882393567242.png" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+Iam a teen boy who love to code. I wanna do something by coding. I wanna be famous through coding. still learning. love to use
+ 
+ * discord
+ 
+I use 
+ * python
 
-  
+I wanna develope some hack tools and be famous join me if u want. thx for coming here
   
 <div align="center">
 <h2> my discord id ! <img src="https://cdn.discordapp.com/emojis/776478630393806888.png" width="30px"></h2>
