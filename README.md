@@ -9,4 +9,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/983946996354252830?borderRadius=20px&idleMessage=Bomming%20your%20Mom&hideStatus=false&bg=000000&hideDiscrim=true)](https://discord.com/users/983946996354252830)
 
-https://github.com/anuraghazra/github-readme-stats#themes:~:text=%3Cpicture%3E%0A%3C,%22%20/%3E%0A%3C/picture%3E
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unknown&show_icons=true&theme=radical)
