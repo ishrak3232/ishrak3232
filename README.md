@@ -1,13 +1,11 @@
 ## **HELLO BXBY
 [![Discord Presence](https://lanyard.cnrad.dev/api/983946996354252830?borderRadius=20px&idleMessage=Bomming%20your%20Mom&hideStatus=false&bg=000000&hideDiscrim=true)](https://discord.com/users/983946996354252830)
 
-<h3 align="middle">I love to use </h3>
-<h3 align="middle">I love to use </h3> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
+<div align="center">
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
-
-
-
-<p align="middle"> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://profile-counter.glitch.me/AhmedCodor/count.svg">
-[![GitHub followers](https://img.shields.io/github/followers/AhmedCodor.svg?style=social&label=Followers)](https://github.com/AhmedCodor?tab=followers)
+</br>
+</br>
