@@ -8,11 +8,11 @@
 Iam a teen boy who love to code. I wanna do something by coding. I wanna be famous through coding. still learning. love to use python to develope my programmes. regular in discord famous with the name unknown
  
 - Info 
-* live in bangaldesh
-* under 18
-* male
-* brown boy
-* proud to be muslim
+* live in bangaldesh ~ 🇧🇩
+* under 18 ~ 🔞
+* male ~ 🚹
+* brown boy ~ 👦🏾
+* proud to be muslim ~ 🕋
  
 
 I wanna develope some hack tools and be famous join me if u want. thx for coming here
