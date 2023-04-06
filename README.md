@@ -21,7 +21,7 @@ I wanna develope some hack tools and be famous join me if u want. thx for coming
 <h2> my discord id ! <img src="https://cdn.discordapp.com/emojis/776478630393806888.png" width="30px"></h2>
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1064034946928357478?borderRadius=20px&idleMessage=Bomming%20your%20Mom&hideStatus=false&bg=000000&hideDiscrim=true)](https://discord.com/users/1064034946928357478)
+[![Discord Presence](https://lanyard.cnrad.dev/api/990891722307416075?borderRadius=20px&idleMessage=Bomming%20your%20Mom&hideStatus=false&bg=000000&hideDiscrim=true)](https://discord.com/users/990891722307416075)
 <div align="center">
 <h2> my github stats ! <img src="https://cdn.discordapp.com/emojis/873662771730980925.png" width="30px"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishrak3232&label=Profile%20views&color=808080&style=flat" alt="ishrak3232" /> </p>
